@@ -13,8 +13,24 @@
 ![C](https://img.shields.io/badge/-C-F2A9C0?style=for-the-badge&logo=c&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-FADADD?style=for-the-badge&logo=html5&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-FBCFE8?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Shell](https://img.shields.io/badge/-Shell-FBCFE8?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ---
+
+<img src="https://cdn.simpleicons.org/nist/white" height="20"/> NIST Cybersecurity Framework  
+<img src="https://cdn.simpleicons.org/iso/white" height="20"/> ISO/IEC 27001  
+
+
+---
+
+### Formas de contato
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-F6C9E8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kalli-lopes100/)
+[![E-mail](https://img.shields.io/badge/-E--mail-FAD1E6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:kallilopees@gmail.com)
+
+
+---
+
 
 ### Estatísticas do GitHub
 
