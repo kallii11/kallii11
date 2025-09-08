@@ -1,7 +1,8 @@
 <!-- Título com animação de digitação -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F6C9E8&center=true&vCenter=true&width=600&lines=Oii!;Bem+vindo+ao+meu+GitHub! =)" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F6C9E8&center=true&vCenter=true&width=600&lines=Oii!;Bem+vindo+ao+meu+GitHub =)" alt="Typing SVG" />
 </p>
+
 
 ---
 
