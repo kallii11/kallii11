@@ -15,7 +15,6 @@
 ![HTML](https://img.shields.io/badge/-HTML-FADADD?style=for-the-badge&logo=html5&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-FBCFE8?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-FBCFE8?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![Css]https://img.shields.io/badge/-CSS-F6C9E8?style=for-the-badge&logo=CSS&logoColor=white)
 
 ---
 
