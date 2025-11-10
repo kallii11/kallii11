@@ -6,7 +6,7 @@
 
 ---
 
-### 💻 Linguagens que uso
+### Linguagens 
 
 <!-- Badges com tons personalizados em rosa claro -->
 ![Python](https://img.shields.io/badge/-Python-F6C9E8?style=for-the-badge&logo=python&logoColor=white)
@@ -15,10 +15,11 @@
 ![HTML](https://img.shields.io/badge/-HTML-FADADD?style=for-the-badge&logo=html5&logoColor=white)
 ![Bash](https://img.shields.io/badge/-Bash-FBCFE8?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![Shell](https://img.shields.io/badge/-Shell-FBCFE8?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![Css]https://img.shields.io/badge/-CSS-F6C9E8?style=for-the-badge&logo=CSS&logoColor=white)
 
 ---
 
-### 🍓 Frameworks e Normas que estudo
+### 🍓 Áreas de Foco e Estudo
 
 - ISO/IEC 27001
 - ISO/IEC 27005
@@ -40,7 +41,7 @@
 ---
 
 
-### Estatísticas do GitHub
+### Estatísticas 
 
  <div align="center">
   <!-- Gráfico de estatísticas com tema suave -->
