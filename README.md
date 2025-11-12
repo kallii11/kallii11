@@ -1,6 +1,6 @@
 <!-- Título com animação de digitação -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=1000&color=F6C9E8&center=true&vCenter=true&width=600&lines=Loading...;Bem+vindo(a)+ao+meu+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1200&pause=800&color=F6C9E8&center=true&vCenter=true&width=650&lines=Loading...;>+installing+dependencies+...;[========================+]+\+100%+installing+dev-deps;added+420+packages+in+4.8s;Installation+Complete!+Repository+Ready.;Welcome+to+my+profile!" alt="Typing SVG" />
 </p>
 
 
