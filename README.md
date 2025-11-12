@@ -20,12 +20,24 @@
 
 ### 🍓 Áreas de Foco e Estudo
 
-- ISO/IEC 27001
-- ISO/IEC 27005
-- NIST Cybersecurity Framework
-- COBIT 5 e COBIT 2019
-- ITIL 4
-- LGPD e GDPR
+* **Segurança Ofensiva)**
+    * Engenharia Reversa, Análise de Binários.
+    * Exploitation (Pwn).
+    * Vulnerability Assessment e Pentest.
+
+* **Defesa e Análise Cibernética**
+    * SIEM e Automação de Segurança (SOAR).
+    * Threat Intelligence (TI) e MITRE ATT&CK®.
+    * Análise de Logs e Resposta a Incidentes (IR).
+
+* **Arquitetura e Segurança Técnica**
+    * Criptografia/Cifras e PKI.
+    * DevSecOps e automação.
+
+* **Governança, Risco e Conformidade (GRC)**
+    * Frameworks: ISO 27001, NIST CSF e COBIT.
+    * Regulamentações: LGPD, GDPR e Compliance.
+    * Gestão: ITIL 4 e Gestão de Riscos.
 
 
 
