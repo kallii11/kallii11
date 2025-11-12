@@ -18,7 +18,7 @@
 
 ---
 
-### 🍓 Áreas de Foco e Estudo
+###  Áreas de Foco e Estudo
 
 * **Segurança Ofensiva)**
     * Engenharia Reversa, Análise de Binários.
